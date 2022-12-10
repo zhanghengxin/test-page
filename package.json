@@ -15,7 +15,7 @@
     "body-parser": "^1.19.0",
     "core-js": "^2.6.5",
     "element-resize-detector": "^1.1.15",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "formidable": "^1.2.1",
     "js-calendar": "^1.2.3",
     "mavon-editor": "^2.7.5",
